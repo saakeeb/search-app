@@ -55,6 +55,7 @@ function App() {
             )
           })}
         </ul>
+        
         <aside>
           <form className="search">
             <label>Search</label>
@@ -65,7 +66,7 @@ function App() {
 
       <footer>
         <div className="container">
-          <p> Images collected from Futurama </p>
+          <p> Images collected from Futurama</p>
         </div>
       </footer>
     </>
