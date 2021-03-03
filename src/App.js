@@ -32,6 +32,7 @@ function App() {
       </header>
 
       <main className="container">
+        
         <ul className="characters">
           {characterResults.map(character => {
             const { name, company, species, thumb } = character;
@@ -55,7 +56,7 @@ function App() {
             )
           })}
         </ul>
-        
+
         <aside>
           <form className="search">
             <label>Search</label>
