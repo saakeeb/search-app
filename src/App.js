@@ -65,9 +65,7 @@ function App() {
 
       <footer>
         <div className="container">
-          <p>
-            Images from <a href="http://www.cc.com/shows/futurama">Futurama</a> via <a href="https://futurama.fandom.com/">futurama.fandom.com</a>
-          </p>
+          <p> Images collected from Futurama </p>
         </div>
       </footer>
     </>
